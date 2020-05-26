@@ -9,4 +9,9 @@
 @import "node_modules/bootstrap-scss/images";
 @import "node_modules/bootstrap-scss/code";
 @import "node_modules/bootstrap-scss/grid";
-@import "components/nav-bar.scss";
+@import "components/navbar.scss";
+
+body {
+  background: rgba(132, 96, 246, 0.8);
+  color: white;
+}
